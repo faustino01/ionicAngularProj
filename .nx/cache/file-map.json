@@ -150,6 +150,14 @@
         "hash": "7418061059857182964"
       },
       {
+        "file": "src/app/services/photo.service.spec.ts",
+        "hash": "16802840011392128893"
+      },
+      {
+        "file": "src/app/services/photo.service.ts",
+        "hash": "1735528113561361202"
+      },
+      {
         "file": "src/app/tab1/tab1-routing.module.ts",
         "hash": "11381973081829977082"
       },
@@ -183,7 +191,7 @@
       },
       {
         "file": "src/app/tab2/tab2.page.html",
-        "hash": "18388286382109423525"
+        "hash": "2865220476412201966"
       },
       {
         "file": "src/app/tab2/tab2.page.scss",
@@ -195,7 +203,7 @@
       },
       {
         "file": "src/app/tab2/tab2.page.ts",
-        "hash": "1649071404575094014"
+        "hash": "8663710705824575186"
       },
       {
         "file": "src/app/tab3/tab3-routing.module.ts",
