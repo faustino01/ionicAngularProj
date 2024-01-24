@@ -10,6 +10,7 @@
     "@angular/platform-browser": "^17.0.2",
     "@angular/platform-browser-dynamic": "^17.0.2",
     "@angular/router": "^17.0.2",
+    "@capacitor/android": "5.6.0",
     "@capacitor/app": "5.0.6",
     "@capacitor/camera": "^5.0.8",
     "@capacitor/core": "5.6.0",
@@ -99,11 +100,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "6417398909176431329"
+        "hash": "5697782192036340533"
       },
       {
         "file": "package.json",
-        "hash": "7462311137865562127"
+        "hash": "96362412947645914"
       },
       {
         "file": "src/app/app-routing.module.ts",
@@ -155,7 +156,11 @@
       },
       {
         "file": "src/app/services/photo.service.ts",
-        "hash": "1735528113561361202"
+        "hash": "11031250704351350714"
+      },
+      {
+        "file": "src/app/services/userPhoto.ts",
+        "hash": "13107944676867174864"
       },
       {
         "file": "src/app/tab1/tab1-routing.module.ts",
@@ -191,7 +196,7 @@
       },
       {
         "file": "src/app/tab2/tab2.page.html",
-        "hash": "2865220476412201966"
+        "hash": "8605440748673759405"
       },
       {
         "file": "src/app/tab2/tab2.page.scss",
@@ -203,7 +208,7 @@
       },
       {
         "file": "src/app/tab2/tab2.page.ts",
-        "hash": "8663710705824575186"
+        "hash": "6903698888896249296"
       },
       {
         "file": "src/app/tab3/tab3-routing.module.ts",
